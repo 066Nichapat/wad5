@@ -1,0 +1,12 @@
+
+    /* โค้ด CSS อื่น ๆ */
+
+    .forgot-password a {
+        color: white;
+        text-decoration: none; /* ลบขีดเส้นใต้ถ้าไม่ต้องการ */
+    }
+
+    .forgot-password a:hover {
+        text-decoration: underline; /* เพิ่มขีดเส้นใต้เมื่อเลื่อนเมาส์ */
+    }
+
